@@ -62,8 +62,9 @@ Phase 4: Blockchain integration for immutable supply chain transparency.
 
 👥 Team AstraNova
 Built with passion by a team that believes in sustainable agriculture and social impact.
-Krishnayan Kashyap Pathak: Team Lead, Vision & Product, Design, UX & Marketing Ops("The Hacker").
-Mazharul Islam Barbhuyan:
+Krishnayan Kashyap Pathak: Team Lead, Vision & Product, Design, UX & Marketing Ops.
+
+Mazharul Islam Barbhuyan:Co lead, marketing
 
 
 🙏 Acknowledgments
