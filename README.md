@@ -1,4 +1,4 @@
-🌾 KhetFlow(Deployed - click the link given below to check the portals)
+🌾 KhetFlow (Deployed - click the link given below to check the portals)
 
 From Farm Waste to Market Value. From Surplus Stock to Business Profit.
 KhetFlow is a B2B platform transforming "imperfect" produce into opportunities for farmers and affordable resources for businesses. We bridge the gap between waste and value.
